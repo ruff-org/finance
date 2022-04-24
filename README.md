@@ -1,4 +1,4 @@
-# finance
+# Finance
 SEC Reporting & Financial Documents
 
 ## Definitions
